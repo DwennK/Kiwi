@@ -1,5 +1,3 @@
 # .gitignore should include reference to config.py
-api_key = "YOUR_KEY"
-api_secret = "YOUR_SECRET"
-access_token = "YOUR_ACCESS_TOKEN"
-token_secret = "YOUR_TOKEN_SECRET"
+client_ID = "nHKmP4iaDoePAr3huE9L6p0yB4rqQvZh"
+client_secret = "8lRJtV9CqqbZTotY"

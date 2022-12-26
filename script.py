@@ -1,6 +1,9 @@
 import requests
 #Import the config.py file that contains API key etc....
 import config
+
+
+
 url = "https://developer.dexcom.com/docs/dexcomv2/operation/getEstimatedGlucoseValuesV2/api.dexcom.com/v2/users/self/egvs"
 
 query = {
