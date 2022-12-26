@@ -1,5 +1,5 @@
 import requests
-#Import the config.py file that contains API key etc....
+#Import the config.py file that contains API key etc.....
 import config
 
 
