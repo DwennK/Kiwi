@@ -1,3 +1,3 @@
 # .gitignore should include reference to config.py
-client_ID = "zzzzzzzzz"
-client_secret = "zzzzzzzzzzzz"
+client_ID = "YOUR ID"
+client_secret = "YOUR SECRET"
